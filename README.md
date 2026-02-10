@@ -9,7 +9,7 @@ This project involves performing Exploratory Data Analysis (EDA) and building a 
 - **Performance:** Achieved a model accuracy of **81.01%**.
 
 ## 📁 Files in this Repository
-- `Titanic_Analysis.ipynb`: Jupyter notebook containing the full Python code.
+- `Titanic_Analysis.ipynb`: [Jupyter notebook containing the full Python code.](https://github.com/PujaBapari/Titanic-Survival-Prediction-ML/blob/main/(EDA)_%26_Visualizations.ipynb)
 - `train.csv` & `test.csv`: Input datasets.
 
 ## 🛠️ Key Libraries Used
