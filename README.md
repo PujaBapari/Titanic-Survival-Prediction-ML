@@ -11,7 +11,7 @@ This project involves performing Exploratory Data Analysis (EDA) and building a 
 ## 📁 Files in this Repository
 - `Titanic_Analysis.ipynb`: [Google colab containing the full Python code.](https://github.com/PujaBapari/Titanic-Survival-Prediction-ML/blob/main/(EDA)_%26_Visualizations.ipynb)
 - `test.csv`: [Input datasets.](https://github.com/PujaBapari/Titanic-Survival-Prediction-ML/blob/main/test.csv)
-- `train.csv':
+- `train.csv':[Input datasets.](https://github.com/PujaBapari/Titanic-Survival-Prediction-ML/blob/main/train.csv)
 ## 🛠️ Key Libraries Used
 - **Pandas** for data manipulation.
 - **Seaborn & Matplotlib** for data visualization.
